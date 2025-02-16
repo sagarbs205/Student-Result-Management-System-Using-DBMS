@@ -16,7 +16,7 @@ This project would provide students to view their examination results in a simpl
 
 ## Images : 
 * Home
-![home](https://github.com/user-attachments/assets/112758d0-6b49-43ac-9224-e54f9f0322f5.png)
+![home](https://github.com/user-attachments/assets/112758d0-6b49-43ac-9224-e54f9f0322f5)
 
 * Admin Dashboard
 ![dashboard](https://user-images.githubusercontent.com/89544124/210182399-f98e25ec-bc1f-4c8a-9756-124f99a4595f.png)
